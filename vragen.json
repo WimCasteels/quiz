@@ -1,0 +1,115 @@
+{
+    "vragen": [
+      {
+        "vraag": "Welke factor draagt het meest bij aan het hoge energieverbruik van datacenters?",
+        "opties": [
+          "De verlichting van de gebouwen",
+          "Het koelen van de servers",
+          "Het trainen van AI-modellen",
+          "De beveiliging van de faciliteiten"
+        ],
+        "correct_antwoord": "Het koelen van de servers",
+        "uitleg": "Het koelen van servers verbruikt doorgaans de meeste energie, omdat deze apparatuur constant op de juiste temperatuur moet worden gehouden om oververhitting te voorkomen."
+      },
+      {
+        "vraag": "Waarom kiezen veel techbedrijven IJsland als locatie voor hun datacenters?",
+        "opties": [
+          "Vanwege de lage grondprijzen",
+          "Door de hoogopgeleide bevolking",
+          "Vanwege het koude klimaat en hernieuwbare energie",
+          "Door gunstige belastingwetgeving"
+        ],
+        "correct_antwoord": "Vanwege het koude klimaat en hernieuwbare energie",
+        "uitleg": "IJsland biedt natuurlijke koeling door het koude klimaat, en er is veel hernieuwbare energie beschikbaar (geothermie en waterkracht)."
+      },
+      {
+        "vraag": "Wat is een onverwacht gevolg van de groei van AI-datacenters in stedelijke gebieden?",
+        "opties": [
+          "Verhoogde werkloosheid",
+          "Waterschaarste voor lokale gemeenschappen",
+          "Geluidsoverlast",
+          "Verminderde internetsnelheid"
+        ],
+        "correct_antwoord": "Waterschaarste voor lokale gemeenschappen",
+        "uitleg": "Datacenters verbruiken grote hoeveelheden water voor koeling, wat in dichtbevolkte of sowieso al waterschaarse gebieden tot tekorten kan leiden."
+      },
+      {
+        "vraag": "Waarom is het lastig voor techbedrijven om conflictvrije toeleveringsketens te creëren?",
+        "opties": [
+          "Te hoge kosten",
+          "Gebrek aan alternatieve materialen",
+          "Complexiteit van duizenden leveranciers en tussenpersonen",
+          "Onwil van consumenten om meer te betalen"
+        ],
+        "correct_antwoord": "Complexiteit van duizenden leveranciers en tussenpersonen",
+        "uitleg": "De keten voor grondstoffen is wereldwijd verspreid en bestaat uit veel schakels, waardoor het moeilijk is om de herkomst van materialen helemaal conflictvrij te garanderen."
+      },
+      {
+        "vraag": "Wat is een belangrijk obstakel bij het beoordelen van de milieu-impact van AI-systemen?",
+        "opties": [
+          "Gebrek aan meetinstrumenten",
+          "Beperkte transparantie van techbedrijven over energieverbruik",
+          "Onduidelijke wetgeving",
+          "Technische complexiteit"
+        ],
+        "correct_antwoord": "Beperkte transparantie van techbedrijven over energieverbruik",
+        "uitleg": "Doordat veel bedrijven hun exacte energieverbruik niet of slechts deels openbaar maken, is het lastig een volledig beeld te krijgen van de milieu-impact."
+      },
+      {
+        "vraag": "Welke ontwikkeling in de energiesector illustreert de groeiende energiebehoefte van AI?",
+        "opties": [
+          "Toenemende investeringen in kernenergie door techbedrijven",
+          "Groei van windmolenparken",
+          "Ontwikkeling van zonne-energie",
+          "Uitbreiding van het elektriciteitsnet"
+        ],
+        "correct_antwoord": "Uitbreiding van het elektriciteitsnet",
+        "uitleg": "Door de toenemende vraag naar stroom voor AI- en datacentergebruik worden elektriciteitsnetwerken flink uitgebreid, zodat ze hogere belastingen aankunnen."
+      },
+      {
+        "vraag": "Hoe beïnvloedt de ontwikkeling van AI de duurzaamheidsdoelen van techbedrijven?",
+        "opties": [
+          "Het versnelt het bereiken van klimaatdoelen",
+          "Het maakt het moeilijker om CO2-neutraliteit te bereiken",
+          "Het heeft geen significant effect",
+          "Het verbetert energie-efficiëntie"
+        ],
+        "correct_antwoord": "Het maakt het moeilijker om CO2-neutraliteit te bereiken",
+        "uitleg": "De groeiende rekenkracht voor AI vergt meer energie, wat het behalen van CO2-neutraliteit bemoeilijkt tenzij er snel wordt opgeschaald naar duurzame energiebronnen."
+      },
+      {
+        "vraag": "Wat is een onbedoeld sociaal gevolg van de groeiende e-waste door AI?",
+        "opties": [
+          "Werkgelegenheid in recycling",
+          "Kinderarbeid in ontwikkelingslanden",
+          "Stijgende elektronicaprijzen",
+          "Verbeterde recyclingtechnologie"
+        ],
+        "correct_antwoord": "Kinderarbeid in ontwikkelingslanden",
+        "uitleg": "Elektronisch afval belandt vaak in landen waar informele recycling plaatsvindt onder slechte omstandigheden, waaronder kinderarbeid."
+      },
+      {
+        "vraag": "Waarom is waterverbruik van datacenters vooral problematisch in bepaalde regio's?",
+        "opties": [
+          "Vanwege strenge milieuwetgeving",
+          "Door beperkte infrastructuur",
+          "Vanwege bestaande waterschaarste in die gebieden",
+          "Door hoge waterkosten"
+        ],
+        "correct_antwoord": "Vanwege bestaande waterschaarste in die gebieden",
+        "uitleg": "Datacenters hebben veel water nodig voor koeling, wat met name in al droge of waterschaarse gebieden tot problemen leidt."
+      },
+      {
+        "vraag": "Welke factor maakt het moeilijk om de herkomst van mineralen te traceren?",
+        "opties": [
+          "Gebrekkige documentatie",
+          "Complexe internationale handelsroutes",
+          "Mengeling van legale en illegale mijnen in toeleveringsketens",
+          "Taalbarrières tussen landen"
+        ],
+        "correct_antwoord": "Mengeling van legale en illegale mijnen in toeleveringsketens",
+        "uitleg": "Grondstoffen uit verschillende bronnen worden vaak vermengd, waardoor het vrijwel onmogelijk is om de exacte herkomst te achterhalen."
+      }
+    ]
+  }
+  
