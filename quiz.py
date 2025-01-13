@@ -47,7 +47,7 @@ def volgende_vraag():
     st.rerun()
 
 def main():
-    st.title("Quiz: AI & De Aarde")
+    st.title("AI & De Aarde")
     
     initialize_session_state()
     
