@@ -44,7 +44,7 @@ def volgende_vraag():
     st.session_state.huidige_vraag += 1
     st.session_state.antwoord_gegeven = False
     st.session_state.gekozen_antwoord = None
-    st.experimental_rerun()
+    st.rerun()
 
 def main():
     st.title("Quiz: AI & De Aarde")
